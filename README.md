@@ -15,8 +15,6 @@ This project is a responsive, mobile-friendly interactive bundle selector UI bui
 📁 Files
 index.html: Main file containing all the HTML, CSS, and JavaScript.
 
-Self-contained – no need for extra assets or dependencies.
-
 🚀 How to Use
 Open index.html in any browser.
 
